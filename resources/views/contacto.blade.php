@@ -26,7 +26,7 @@
                                     </p>
                                 @empty
                                     <p class="mb-4 text-base text-left md:text-sm sm:text-xs text-violet-900">
-                                        Aun no hay saluditos
+                                        Aun no hay saluditos por el momento
                                     </p>
                                 @endforelse
                             </div>
